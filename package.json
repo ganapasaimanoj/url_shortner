@@ -1,0 +1,30 @@
+{
+  "name": "url_shortner",
+  "version": "1.0.0",
+  "description": "Url Shortner",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganapasaimanoj/url_shortner.git"
+  },
+  "keywords": [],
+  "author": "Ganapa Sai Manoj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganapasaimanoj/url_shortner/issues"
+  },
+  "homepage": "https://github.com/ganapasaimanoj/url_shortner#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "shortid": "^2.2.17"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

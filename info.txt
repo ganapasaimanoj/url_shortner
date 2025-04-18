@@ -1,0 +1,22 @@
+GET request with id : ajh-754v
+
+Request to generate short url with originalUrl : https://www.google.com
+
+Request to generate short url with originalUrl : https://www.google.com
+
+Request to generate short url with originalUrl : https://www.google.com
+
+Request to generate short url with originalUrl : https://www.google.com
+
+GET request with id : cjDfwqzVL
+
+GET request with id : cjDfwqzVL
+
+GET request with id : cjDfwqzVL
+
+GET request with id : cjDfwqzVL
+
+Request to generate short url with originalUrl : https://www.google.com
+
+GET request with id : MJMQYIdBc
+

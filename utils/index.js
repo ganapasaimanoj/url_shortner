@@ -2,9 +2,9 @@ import path from 'node:path';
 import { appendFile } from 'node:fs/promises';
 import shortid from 'shortid';
 
-const infoLogFilePath = path.resolve('info.txt');
-const sucessLogFilePath = path.resolve('success.txt');
-const errorLogFilePath = path.resolve('error.txt');
+const infoLogFilePath = path.resolve('logs/info.txt');
+const sucessLogFilePath = path.resolve('logs/success.txt');
+const errorLogFilePath = path.resolve('logs/error.txt');
 
 const newLine = '\n\n';
 

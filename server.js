@@ -85,7 +85,6 @@ http.post('/createShortUrl', (req, res) => {
         }
     }
     catch (error) {
-        console.log('Error', error);
         const requestedUrl = requestedOriginalUrl ? decodeURIComponent(requestedOriginalUrl) : '';
         if (requestedUrl) {
             logger.error(`Something went wrong while creating a short url for ${decodeURIComponent(requestedOriginalUrl)}`);
